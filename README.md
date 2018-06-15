@@ -1,6 +1,11 @@
 # DesignPatterns
 The self made guide to Design Patterns
 
+## Books Read: 
+https://www.safaribooksonline.com/library/view/java-design-patterns/9781484218020/9781484218013_Ch05.xhtml
+Building MicroServices
+https://www.safaribooksonline.com/library/view/building-microservices/9781491950340/copyright-page01.html
+
 Creational Design Patterns
 ## Singleton 
 Real-Life Example
@@ -26,3 +31,9 @@ Computer World Example
 Suppose in a GUI-based toolkit, we want to add some border properties. We can do this by inheritance. But it cannot be treated as the best solution because our user or client cannot have absolute control from the creation. The core of that choice is static there.
 
 Decorator can offer us a more flexible approach: here we may surround the component in another object. The enclosing object is termed “decorator.” It conforms to the interface of the component it decorates. It forwards requests to the component. It can perform additional operations before or after those forwarding requests. An unlimited number of responsibilities can be added with this concept.
+
+
+
+## Videos Seen 
+Code Refactoring: Derek Banas http://www.newthinktank.com/videos/refactoring-video-tutorial/
+
